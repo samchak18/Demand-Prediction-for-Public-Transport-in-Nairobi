@@ -56,7 +56,7 @@ max_capacity: number of seats on the vehicle
 Conclusion:
 
 Transportation Demand Management can provide significant savings to consumers and society by reducing and deferring roadway capacity expansion costs. It is often the Least Cost solution. The transportation sector is a perfect example of an industry grappling with rapid changes in technology and customer expectations. In particular, these changes are being driven by three major trends: electrification, automation, and servitization. Sustainable transportation refers to low- and zero-emission, energy-efficient, affordable modes of transport, including electric and alternative-fuel vehicles, as well as domestic fuels.
-...
+
 They include:
 Biodiesel.
 Electricity.
@@ -67,6 +67,6 @@ Propane.
 
 
 
-![image](https://user-images.githubusercontent.com/114379464/234515489-3efdc496-4b6b-4f76-b2b2-15d193c8556d.png)
+![image](https://user-images.githubusercontent.com/114379464/234516161-df924269-55e5-40ad-8d9e-e54e0d85f594.png)
 
 
