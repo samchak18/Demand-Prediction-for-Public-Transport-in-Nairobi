@@ -1,5 +1,12 @@
 # Demand-Prediction-for-Public-Transport-in-Nairobi
-This challenge asks you to build a model that predicts the number of seats that Mobiticket can expect to sell for each ride
+This challenge asks you to build a model that predicts the number of seats that Mobiticket can expect to sell for each ride. Transport demand is a quantitative input to evaluate supply strategy of transport facilities and land use planning. Presented as travel volume based on transport system usage, including transport facilities and transport services.
+
+
+
+
+![image](https://user-images.githubusercontent.com/114379464/234515235-8600c585-c2b5-4d92-95b4-c898d66cfa71.png)
+
+
 
 
 Description of the Problem:
@@ -45,3 +52,21 @@ travel_from: town from which ride originated
 travel_to: destination of ride. All rides are to Nairobi.
 car_type: vehicle type (shuttle or bus)
 max_capacity: number of seats on the vehicle
+
+Conclusion:
+
+Transportation Demand Management can provide significant savings to consumers and society by reducing and deferring roadway capacity expansion costs. It is often the Least Cost solution. The transportation sector is a perfect example of an industry grappling with rapid changes in technology and customer expectations. In particular, these changes are being driven by three major trends: electrification, automation, and servitization. Sustainable transportation refers to low- and zero-emission, energy-efficient, affordable modes of transport, including electric and alternative-fuel vehicles, as well as domestic fuels.
+...
+They include:
+Biodiesel.
+Electricity.
+Ethanol.
+Hydrogen.
+Natural Gas.
+Propane.
+
+
+
+![image](https://user-images.githubusercontent.com/114379464/234515489-3efdc496-4b6b-4f76-b2b2-15d193c8556d.png)
+
+
